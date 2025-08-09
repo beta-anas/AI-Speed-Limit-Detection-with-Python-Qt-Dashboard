@@ -1,0 +1,50 @@
+{
+    "classes": [
+        {
+            "className": "SpeedLimitReader",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "speedLimit",
+                    "notify": "speedLimitChanged",
+                    "read": "speedLimit",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "SpeedLimitReader",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "speedLimitChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 1,
+                    "name": "readSpeedLimitFile",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "speedlimitreader.h",
+    "outputRevision": 69
+}

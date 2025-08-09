@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 18,
+                        "durationMicroseconds": 3229,
+                        "errorMessage": "Cannot access value for name redline",
+                        "functionName": "onPaint",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 15,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot access value for name rpm",
+                        "functionName": "text",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name rpm",
+                        "functionName": "color",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 473,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 98
+                    }
+                ],
+                "filePath": "C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/GearMotorGauge.qml"
+            }
+        ],
+        "moduleId": "Jauge(JaugeDynamique)"
+    }
+]

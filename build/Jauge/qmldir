@@ -1,0 +1,6 @@
+module Jauge
+typeinfo JaugeDynamique.qmltypes
+prefer :/Jauge/
+Main 1.0 qml/Main.qml
+Gauge 1.0 qml/Gauge.qml
+

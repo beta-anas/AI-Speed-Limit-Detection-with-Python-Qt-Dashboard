@@ -1,0 +1,196 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 1839,
+                        "errorMessage": "Cannot access value for name speedLimitReader",
+                        "functionName": "target",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"speedLimitChanged\".",
+                        "functionName": "onSpeedLimitChanged",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"limiterEnabledChanged\".",
+                        "functionName": "onLimiterEnabledChanged",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 2111,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 2408,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 416,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "onReleased",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 5503,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 18,
+                        "durationMicroseconds": 7013,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPaint",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"speedChanged\".",
+                        "functionName": "onSpeedChanged",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"currentSpeedLimitChanged\".",
+                        "functionName": "onCurrentSpeedLimitChanged",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 297,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 194
+                    }
+                ],
+                "filePath": "C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Main.qml"
+            }
+        ],
+        "moduleId": "Jauge(JaugeDynamique)"
+    }
+]

@@ -1,0 +1,6 @@
+train: ../content/Datasets/BETAset/images/train
+val: ../content/Datasets/BETAset/labels/val
+#number of classes
+nc: 8
+#class names
+names: [\'speed_20\',\'speed_30\',\'speed_40\',\'speed_50\',\'speed_60\',\'speed_80\',\'speed_100\',\'speed_120\']

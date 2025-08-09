@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/BEETTTTA!!!!/Desktop/projet alten
+-cmake-output
+-output-file
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/qml_imports/JaugeDynamique_conf.cmake
+-importPath
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/Jauge
+-importPath
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/qmake_Jauge.qrc
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/JaugeDynamique_raw_qml_0.qrc
+C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/resources.qrc
