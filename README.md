@@ -20,24 +20,24 @@ It demonstrates how to integrate **Python (AI & computer vision)** with **C++/Qt
 
 ---
 
-## 📂 Project Structure  
-AI-Speed-Limit-Detection-with-Python-Qt-Dashboard/
-│── .vscode/ # VS Code configuration
-│── assets/signs/ # Speed limit sign images
-│── build/ # Build output (CMake)
-│── qml/ # QML interface (dynamic gauge)
-│── CMakeLists.txt # CMake configuration
-│── Main.cpp # C++ entry point (Qt app)
-│── Main.py # Python script (YOLO + OCR)
-│── Model.pt # Trained YOLOv8 model
-│── SpeedClass.txt # Speed classes (30, 50, 80, etc.)
-│── data.yaml # YOLO dataset configuration
-│── resources.qrc # Qt resources
-│── speed_limit_data.txt # Speed data text file
-│── speedlimitreader.cpp # C++/JSON data reader
-│── speedlimitreader.h # C++ header for JSON reader
-│── vitesse_limite.json # Real-time detected speed
+## 📂 Structure du projet
 
+- 📁 **AI-Speed-Limit-Detection-with-Python-Qt-Dashboard/**
+  - ⚙️ `.vscode/` → Configuration VS Code  
+  - 🖼️ `assets/signs/` → Images de panneaux de vitesse  
+  - 🏗️ `build/` → Résultats de compilation (CMake)  
+  - 🎨 `qml/` → Interface QML (jauge dynamique)  
+  - 📄 `CMakeLists.txt` → Configuration CMake  
+  - 💻 `Main.cpp` → Point d'entrée C++ (Qt app)  
+  - 🐍 `Main.py` → Script Python (YOLO + OCR)  
+  - 🤖 `Model.pt` → Modèle YOLOv8 entraîné  
+  - 📑 `SpeedClass.txt` → Classes de vitesses (30, 50, 80, etc.)  
+  - 🗂️ `data.yaml` → Configuration dataset YOLO  
+  - 📦 `resources.qrc` → Ressources Qt  
+  - 📊 `speed_limit_data.txt` → Données de vitesse (texte)  
+  - 🔍 `speedlimitreader.cpp` → Lecteur JSON en C++  
+  - 📘 `speedlimitreader.h` → Header du lecteur JSON  
+  - 📌 `vitesse_limite.json` → Vitesse détectée en temps réel  
 
 ---
 
@@ -52,27 +52,26 @@ python Main.py
 
 ---
 
-📊 Example Workflow
+## 📊 Exemple de workflow
 
-YOLOv8 detects a “80 km/h” sign.
+1. YOLOv8 détecte un panneau **80 km/h**.  
+2. L’OCR extrait la valeur **80**.  
+3. La valeur est écrite dans `vitesse_limite.json`.  
+4. La jauge Qt se met à jour en temps réel et affiche **80 km/h**.  
 
-OCR extracts the value 80.
+---
 
-Value is written to vitesse_limite.json.
+## 📌 Améliorations futures
 
-The Qt gauge updates in real-time to display 80 km/h.
+- 🚗 Détection multiple de panneaux.  
+- 📉 Comparaison entre les vitesses limites détectées et la vitesse réelle du véhicule.  
+- 📱 Déploiement sur cartes embarquées (**Raspberry Pi / Jetson Nano**).  
 
-📌 Future Improvements
+---
 
-🚗 Multi-sign detection.
+## 👨‍💻 Auteur
+Développé par **BITTA Anas**  
+🎓 Étudiant en Systèmes Embarqués – Université Privée de Fès  
 
-📉 Compare detected speed limits with the vehicle’s actual speed.
-
-📱 Deployment on embedded boards (Raspberry Pi / Jetson Nano).
-
-👨‍💻 Author
-
-Developed by BITTA Anas
-🎓 Embedded Systems Engineering Student – Université Privée de Fès
 
 
