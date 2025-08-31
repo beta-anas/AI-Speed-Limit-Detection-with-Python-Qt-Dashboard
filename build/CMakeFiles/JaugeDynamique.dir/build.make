@@ -87,6 +87,7 @@ jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6qmlmo
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6qmlworkerscript_relwithdebinfo_metatypes.json
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6opengl_relwithdebinfo_metatypes.json
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6quickcontrols2_relwithdebinfo_metatypes.json
+jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6svg_relwithdebinfo_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Automatic QML type registration for target JaugeDynamique"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.9.1/mingw_64/bin/qmltyperegistrar.exe "--generate-qmltypes=C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/Jauge/JaugeDynamique.qmltypes" --import-name=Jauge --major-version=1 --minor-version=0 "@C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/qmltypes/JaugeDynamique_foreign_types.txt" -o "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/jaugedynamique_qmltyperegistrations.cpp" "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/meta_types/qt6jaugedynamique_metatypes.json"
 	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/qmltypes"
@@ -146,6 +147,14 @@ Jauge/JaugeDynamique.qmltypes: jaugedynamique_qmltyperegistrations.cpp
 
 .qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/qml/Main.qml
 .qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/qml/Gauge.qml
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/20.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/30.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/40.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/50.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/60.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/80.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/100.svg
+.qt/rcc/qrc_resources.cpp: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/assets/signs/120.svg
 .qt/rcc/qrc_resources.cpp: .qt/rcc/resources.qrc
 .qt/rcc/qrc_resources.cpp: C:/Qt/6.9.1/mingw_64/bin/rcc.exe
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Running rcc for resource resources"
@@ -184,20 +193,20 @@ CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.s"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\JaugeDynamique_autogen\mocs_compilation.cpp" -o CMakeFiles\JaugeDynamique.dir\JaugeDynamique_autogen\mocs_compilation.cpp.s
 
-CMakeFiles/JaugeDynamique.dir/Main.cpp.obj: CMakeFiles/JaugeDynamique.dir/flags.make
-CMakeFiles/JaugeDynamique.dir/Main.cpp.obj: CMakeFiles/JaugeDynamique.dir/includes_CXX.rsp
-CMakeFiles/JaugeDynamique.dir/Main.cpp.obj: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/Main.cpp
-CMakeFiles/JaugeDynamique.dir/Main.cpp.obj: CMakeFiles/JaugeDynamique.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/JaugeDynamique.dir/Main.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JaugeDynamique.dir/Main.cpp.obj -MF CMakeFiles\JaugeDynamique.dir\Main.cpp.obj.d -o CMakeFiles\JaugeDynamique.dir\Main.cpp.obj -c "C:\Users\BEETTTTA!!!!\Desktop\projet alten\Main.cpp"
+CMakeFiles/JaugeDynamique.dir/main.cpp.obj: CMakeFiles/JaugeDynamique.dir/flags.make
+CMakeFiles/JaugeDynamique.dir/main.cpp.obj: CMakeFiles/JaugeDynamique.dir/includes_CXX.rsp
+CMakeFiles/JaugeDynamique.dir/main.cpp.obj: C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/main.cpp
+CMakeFiles/JaugeDynamique.dir/main.cpp.obj: CMakeFiles/JaugeDynamique.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/JaugeDynamique.dir/main.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JaugeDynamique.dir/main.cpp.obj -MF CMakeFiles\JaugeDynamique.dir\main.cpp.obj.d -o CMakeFiles\JaugeDynamique.dir\main.cpp.obj -c "C:\Users\BEETTTTA!!!!\Desktop\projet alten\main.cpp"
 
-CMakeFiles/JaugeDynamique.dir/Main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JaugeDynamique.dir/Main.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\BEETTTTA!!!!\Desktop\projet alten\Main.cpp" > CMakeFiles\JaugeDynamique.dir\Main.cpp.i
+CMakeFiles/JaugeDynamique.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JaugeDynamique.dir/main.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\BEETTTTA!!!!\Desktop\projet alten\main.cpp" > CMakeFiles\JaugeDynamique.dir\main.cpp.i
 
-CMakeFiles/JaugeDynamique.dir/Main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JaugeDynamique.dir/Main.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\BEETTTTA!!!!\Desktop\projet alten\Main.cpp" -o CMakeFiles\JaugeDynamique.dir\Main.cpp.s
+CMakeFiles/JaugeDynamique.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JaugeDynamique.dir/main.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\BEETTTTA!!!!\Desktop\projet alten\main.cpp" -o CMakeFiles\JaugeDynamique.dir\main.cpp.s
 
 CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj: CMakeFiles/JaugeDynamique.dir/flags.make
 CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj: CMakeFiles/JaugeDynamique.dir/includes_CXX.rsp
@@ -322,7 +331,7 @@ CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_resources.cpp.s: cmake_force
 # Object files for target JaugeDynamique
 JaugeDynamique_OBJECTS = \
 "CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.obj" \
-"CMakeFiles/JaugeDynamique.dir/Main.cpp.obj" \
+"CMakeFiles/JaugeDynamique.dir/main.cpp.obj" \
 "CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj" \
 "CMakeFiles/JaugeDynamique.dir/jaugedynamique_qmltyperegistrations.cpp.obj" \
 "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_qmake_Jauge.cpp.obj" \
@@ -336,7 +345,7 @@ JaugeDynamique_OBJECTS = \
 JaugeDynamique_EXTERNAL_OBJECTS =
 
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.obj
-JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/Main.cpp.obj
+JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/main.cpp.obj
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/jaugedynamique_qmltyperegistrations.cpp.obj
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_qmake_Jauge.cpp.obj
@@ -347,14 +356,15 @@ JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_JaugeDynamiq
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_resources.cpp.obj
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/build.make
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6QuickControls2.a
+JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Svg.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Quick.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6QmlMeta.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6QmlWorkerScript.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6OpenGL.a
-JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6QmlModels.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Qml.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Network.a
+JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a
 JaugeDynamique.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/linkLibs.rsp
 JaugeDynamique.exe: CMakeFiles/JaugeDynamique.dir/objects1.rsp

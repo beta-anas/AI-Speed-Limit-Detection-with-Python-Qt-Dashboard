@@ -42,7 +42,8 @@ template <> constexpr inline auto SpeedLimitReader::qt_create_metaobjectdata<qt_
         "speedLimitChanged",
         "",
         "readSpeedLimitFile",
-        "speedLimit"
+        "speedLimit",
+        "speedLimitImage"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -54,6 +55,8 @@ template <> constexpr inline auto SpeedLimitReader::qt_create_metaobjectdata<qt_
     QtMocHelpers::UintData qt_properties {
         // property 'speedLimit'
         QtMocHelpers::PropertyData<int>(4, QMetaType::Int, QMC::DefaultPropertyFlags, 0),
+        // property 'speedLimitImage'
+        QtMocHelpers::PropertyData<QString>(5, QMetaType::QString, QMC::DefaultPropertyFlags, 0),
     };
     QtMocHelpers::UintData qt_enums {
     };
@@ -88,6 +91,7 @@ void SpeedLimitReader::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int
         void *_v = _a[0];
         switch (_id) {
         case 0: *reinterpret_cast<int*>(_v) = _t->speedLimit(); break;
+        case 1: *reinterpret_cast<QString*>(_v) = _t->speedLimitImage(); break;
         default: break;
         }
     }
@@ -125,7 +129,7 @@ int SpeedLimitReader::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
             || _c == QMetaObject::ResetProperty || _c == QMetaObject::BindableProperty
             || _c == QMetaObject::RegisterPropertyMetaType) {
         qt_static_metacall(this, _c, _id, _a);
-        _id -= 1;
+        _id -= 2;
     }
     return _id;
 }

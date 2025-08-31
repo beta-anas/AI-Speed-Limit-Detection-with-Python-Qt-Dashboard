@@ -7,7 +7,7 @@
 #include <QJsonObject>
 
 SpeedLimitReader::SpeedLimitReader(QObject *parent)
-    : QObject(parent), m_speedLimit(240)
+    : QObject(parent), m_speedLimit(240)  // ou 0 si tu préfères
 {
     // Timer pour lire le fichier toutes les 500ms
     m_timer.setInterval(500);
@@ -21,8 +21,6 @@ void SpeedLimitReader::readSpeedLimitFile()
     QString appDirPath = QCoreApplication::applicationDirPath();
     QDir appDir(appDirPath);
 
-    // Remonter d'un niveau pour atteindre le répertoire parent (PROJET ALTEN)
-    // Cela suppose que l'exécutable est dans 'build' et le fichier JSON dans 'PROJET ALTEN'
     if (!appDir.cdUp()) {
         qWarning() << "Impossible de remonter au répertoire parent.";
         return;
@@ -32,7 +30,6 @@ void SpeedLimitReader::readSpeedLimitFile()
     QFile file(filePath);
     
     if (!file.exists()) {
-        // qWarning() << "Fichier vitesse_limite.json non trouvé à:" << filePath; // Décommenter pour débogage
         return;
     }
     
@@ -61,4 +58,17 @@ void SpeedLimitReader::readSpeedLimitFile()
             emit speedLimitChanged();
         }
     }
+}
+
+QString SpeedLimitReader::speedLimitImage() const
+{
+    if (m_speedLimit == 20) return "qrc:/assets/signs/20.svg";
+    if (m_speedLimit == 30) return "qrc:/assets/signs/30.svg";
+    if (m_speedLimit == 40) return "qrc:/assets/signs/40.svg";
+    if (m_speedLimit == 50) return "qrc:/assets/signs/50.svg";
+    if (m_speedLimit == 60) return "qrc:/assets/signs/60.svg";
+    if (m_speedLimit == 80) return "qrc:/assets/signs/80.svg";
+    if (m_speedLimit == 100) return "qrc:/assets/signs/100.svg";
+    if (m_speedLimit == 120) return "qrc:/assets/signs/120.svg";
+    return "";
 }

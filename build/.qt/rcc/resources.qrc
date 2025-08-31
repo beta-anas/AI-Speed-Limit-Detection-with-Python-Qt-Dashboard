@@ -2,6 +2,14 @@
   <qresource prefix="/">
     <file alias="qml/Main.qml">C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Main.qml</file>
     <file alias="qml/Gauge.qml">C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Gauge.qml</file>
+    <file alias="assets/signs/20.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/20.svg</file>
+    <file alias="assets/signs/30.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/30.svg</file>
+    <file alias="assets/signs/40.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/40.svg</file>
+    <file alias="assets/signs/50.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/50.svg</file>
+    <file alias="assets/signs/60.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/60.svg</file>
+    <file alias="assets/signs/80.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/80.svg</file>
+    <file alias="assets/signs/100.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/100.svg</file>
+    <file alias="assets/signs/120.svg">C:/Users/BEETTTTA!!!!/Desktop/projet alten/assets/signs/120.svg</file>
   </qresource>
 </RCC>
 

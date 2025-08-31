@@ -17,6 +17,10 @@ public:
 
     int speedLimit() const { return m_speedLimit; }
 
+    Q_PROPERTY(QString speedLimitImage READ speedLimitImage NOTIFY speedLimitChanged)
+
+    QString speedLimitImage() const;    
+
 signals:
     void speedLimitChanged();
 
@@ -24,7 +28,7 @@ private slots:
     void readSpeedLimitFile();
 
 private:
-    int m_speedLimit;
+    int m_speedLimit = 0;
     QTimer m_timer;
 };
 

@@ -10,7 +10,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "JaugeDynamique_autogen/timestamp" "custom" "JaugeDynamique_autogen/deps"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/JaugeDynamique_autogen/mocs_compilation.cpp" "CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.obj.d"
-  "C:/Users/BEETTTTA!!!!/Desktop/projet alten/Main.cpp" "CMakeFiles/JaugeDynamique.dir/Main.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/Main.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.cpp" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/qrc_qmake_Jauge.cpp" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_qmake_Jauge.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_qmake_Jauge.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/rcc/qrc_resources.cpp" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_resources.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/build/.qt/rcc/qrc_resources.cpp.obj.d"
@@ -18,6 +17,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.rcc/qmlcache/JaugeDynamique_qml/Main_qml.cpp" "CMakeFiles/JaugeDynamique.dir/build/.rcc/qmlcache/JaugeDynamique_qml/Main_qml.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/build/.rcc/qmlcache/JaugeDynamique_qml/Main_qml.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.rcc/qmlcache/JaugeDynamique_qmlcache_loader.cpp" "CMakeFiles/JaugeDynamique.dir/build/.rcc/qmlcache/JaugeDynamique_qmlcache_loader.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/build/.rcc/qmlcache/JaugeDynamique_qmlcache_loader.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/jaugedynamique_qmltyperegistrations.cpp" "CMakeFiles/JaugeDynamique.dir/jaugedynamique_qmltyperegistrations.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/jaugedynamique_qmltyperegistrations.cpp.obj.d"
+  "C:/Users/BEETTTTA!!!!/Desktop/projet alten/main.cpp" "CMakeFiles/JaugeDynamique.dir/main.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/main.cpp.obj.d"
   "C:/Users/BEETTTTA!!!!/Desktop/projet alten/speedlimitreader.cpp" "CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj" "gcc" "CMakeFiles/JaugeDynamique.dir/speedlimitreader.cpp.obj.d"
   )
 

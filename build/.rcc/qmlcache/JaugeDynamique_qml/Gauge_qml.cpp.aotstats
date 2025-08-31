@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 273,
+                        "durationMicroseconds": 348,
                         "errorMessage": "",
                         "functionName": "onSpeedChanged",
                         "line": 118
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "onLimitSpeedChanged",
                         "line": 119
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "onMaxSpeedChanged",
                         "line": 120
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 18,
-                        "durationMicroseconds": 4674,
+                        "durationMicroseconds": 5816,
                         "errorMessage": "Cannot access value for name maxSpeed",
                         "functionName": "onPaint",
                         "line": 25
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 123,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 23
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 32,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 123,
                         "errorMessage": "",
                         "functionName": "onCompleted",
                         "line": 114
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 15,
-                        "durationMicroseconds": 42,
+                        "durationMicroseconds": 59,
                         "errorMessage": "Cannot access value for name speed",
                         "functionName": "text",
                         "line": 130
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 124
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 125

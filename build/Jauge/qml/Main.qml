@@ -7,7 +7,7 @@ Window {
     id: root
     visible: true
     width: 500
-    height: 500
+    height: 590
     title: "Jauge avec Limiteur Dynamique"
     color: "black"
 
@@ -25,12 +25,12 @@ Window {
     Connections {
         target: speedLimitReader
         onSpeedLimitChanged: {
-            root.currentSpeedLimit = speedLimitReader.speedLimit
-            console.log("Limite dynamique reçue: " + root.currentSpeedLimit)
+            root.currentSpeedLimit = speedLimitReader.speedLimit;
+            console.log("Limite dynamique reçue: " + root.currentSpeedLimit);
         }
         onLimiterEnabledChanged: {
-            root.limiterEnabled = speedLimitReader.limiterEnabled
-            console.log("Limiteur " + (root.limiterEnabled ? "activé" : "désactivé"))
+            root.limiterEnabled = speedLimitReader.limiterEnabled;
+            console.log("Limiteur " + (root.limiterEnabled ? "activé" : "désactivé"));
         }
     }
 
@@ -38,24 +38,24 @@ Window {
         anchors.fill: parent
         focus: true
 
-        Keys.onPressed: (event) => {
+        Keys.onPressed: event => {
             if (event.key === Qt.Key_Up) {
-                root.accelerating = true
+                root.accelerating = true;
             } else if (event.key === Qt.Key_Down) {
-                root.braking = true
+                root.braking = true;
             } else if (event.key === Qt.Key_L) {
                 // Optionnel : activer/désactiver localement (peut aussi venir du C++)
-                root.limiterEnabled = !root.limiterEnabled
-                console.log("Limiteur togglé manuellement: " + root.limiterEnabled)
+                root.limiterEnabled = !root.limiterEnabled;
+                console.log("Limiteur togglé manuellement: " + root.limiterEnabled);
             }
         }
 
-        Keys.onReleased: (event) => {
+        Keys.onReleased: event => {
             if (event.key === Qt.Key_Up) {
-                root.accelerating = false
-                root.overrideTimer = 0
+                root.accelerating = false;
+                root.overrideTimer = 0;
             } else if (event.key === Qt.Key_Down) {
-                root.braking = false
+                root.braking = false;
             }
         }
     }
@@ -68,26 +68,26 @@ Window {
         onTriggered: {
             if (root.accelerating) {
                 if (root.limiterEnabled && root.speed >= root.currentSpeedLimit) {
-                    root.overrideTimer += interval / 1000.0
+                    root.overrideTimer += interval / 1000.0;
                 } else {
-                    root.overrideTimer = 0
+                    root.overrideTimer = 0;
                 }
-                var isOverride = root.overrideTimer >= root.overrideThreshold
+                var isOverride = root.overrideTimer >= root.overrideThreshold;
 
-                var speedLimit = (root.limiterEnabled && !isOverride) ? root.currentSpeedLimit : root.maxSpeedGauge
-                root.speed = Math.min(root.speed + 1.5, speedLimit)
+                var speedLimit = (root.limiterEnabled && !isOverride) ? root.currentSpeedLimit : root.maxSpeedGauge;
+                root.speed = Math.min(root.speed + 1.5, speedLimit);
             } else if (root.braking) {
-                root.speed = Math.max(root.speed - 2, 0)
+                root.speed = Math.max(root.speed - 2, 0);
             } else {
                 if (root.limiterEnabled) {
                     if (root.speed > root.currentSpeedLimit) {
-                        root.speed = Math.max(root.speed - 1, root.currentSpeedLimit)
+                        root.speed = Math.max(root.speed - 1, root.currentSpeedLimit);
                     } else if (root.speed < root.currentSpeedLimit) {
-                        root.speed = Math.min(root.speed + 0.5, root.currentSpeedLimit)
+                        root.speed = Math.min(root.speed + 0.5, root.currentSpeedLimit);
                     }
                 } else {
                     if (root.speed > 0) {
-                        root.speed = Math.max(root.speed - 0.5, 0)
+                        root.speed = Math.max(root.speed - 0.5, 0);
                     }
                 }
             }
@@ -143,6 +143,23 @@ Window {
                 ctx.fillText(i.toString(), tx - (i.toString().length * 4), ty);
             }
 
+            // 🔹 Graduations mineures (ex: tous les 10 km/h)
+            ctx.strokeStyle = "lightgray";
+            ctx.lineWidth = 1;
+
+            for (var j = 10; j < root.maxSpeedGauge; j += 20) {
+                var angleMinor = Math.PI * (0.75 + (j / root.maxSpeedGauge) * 1.5);
+                var mx1 = centerX + Math.cos(angleMinor) * (radius - 10);
+                var my1 = centerY + Math.sin(angleMinor) * (radius - 10);
+                var mx2 = centerX + Math.cos(angleMinor) * (radius - 20);
+                var my2 = centerY + Math.sin(angleMinor) * (radius - 20);
+
+                ctx.beginPath();
+                ctx.moveTo(mx1, my1);
+                ctx.lineTo(mx2, my2);
+                ctx.stroke();
+            }
+
             // Aiguille
             var needleAngle = Math.PI * (0.75 + (root.speed / root.maxSpeedGauge) * 1.5);
             var needleX = centerX + Math.cos(needleAngle) * (radius - 60);
@@ -192,6 +209,31 @@ Window {
         NumberAnimation {
             duration: 100
             easing.type: Easing.OutCubic
+        }
+    }
+
+    Image {
+        id: svgLogo
+        anchors.horizontalCenter: parent.horizontalCenter
+        anchors.bottom: parent.bottom
+        anchors.bottomMargin: 10
+        width: 350
+        height: 350
+        fillMode: Image.PreserveAspectFit
+
+        // Par défaut, aucune image
+        source: ""
+
+        Connections {
+            target: root
+            onCurrentSpeedLimitChanged: {
+                var validSpeeds = [20, 30, 40, 50, 60, 80, 100, 120];
+                if (validSpeeds.indexOf(root.currentSpeedLimit) !== -1) {
+                    svgLogo.source = "qrc:/assets/signs/" + root.currentSpeedLimit + ".svg";
+                } else {
+                    svgLogo.source = ""; // aucune image si vitesse invalide
+                }
+            }
         }
     }
 }

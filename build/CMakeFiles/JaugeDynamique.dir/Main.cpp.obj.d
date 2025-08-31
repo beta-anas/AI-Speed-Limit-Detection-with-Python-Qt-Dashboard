@@ -1,5 +1,5 @@
-CMakeFiles/JaugeDynamique.dir/Main.cpp.obj: \
- C:\Users\BEETTTTA!!!!\Desktop\projet\ alten\Main.cpp \
+CMakeFiles/JaugeDynamique.dir/main.cpp.obj: \
+ C:\Users\BEETTTTA!!!!\Desktop\projet\ alten\main.cpp \
  C:/Qt/6.9.1/mingw_64/include/QtGui/QGuiApplication \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h \

@@ -27,7 +27,6 @@ events:
     names:
       - "mingw32-make.exe"
     candidate_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -37,17 +36,18 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/REGISTRY-NOTFOUND/bin/"
       - "c:/MinGW/bin/"
       - "/MinGW/bin/"
       - "/REGISTRY-NOTFOUND/MinGW/bin/"
     searched_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/mingw32-make.exe.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/mingw32-make.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/mingw32-make.exe.com"
       - "C:/Qt/6.9.1/mingw_64/bin/mingw32-make.exe"
       - "C:/Windows/System32/mingw32-make.exe.com"
@@ -66,7 +66,6 @@ events:
     found: "C:/mingw64/bin/mingw32-make.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -76,10 +75,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -105,7 +107,6 @@ events:
       - "icx"
       - "clang++"
     candidate_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -115,29 +116,14 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/c++.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/c++.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/c++"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/g++.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/g++.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/g++"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/cl.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/cl.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/cl"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/bcc.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/bcc.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/bcc"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/icx.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/icx.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/icx"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/clang++.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/clang++.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/clang++"
       - "C:/Qt/6.9.1/mingw_64/bin/c++.com"
       - "C:/Qt/6.9.1/mingw_64/bin/c++.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/c++"
@@ -268,7 +254,6 @@ events:
     found: "C:/mingw64/bin/c++.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -278,10 +263,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -309,7 +297,6 @@ events:
     found: "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -319,10 +306,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "message-v1"
     backtrace:
@@ -366,7 +356,6 @@ events:
       - "ar"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -375,16 +364,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/ar.com"
     found: "C:/mingw64/bin/ar.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -394,10 +385,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -419,7 +413,6 @@ events:
       - "ranlib"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -428,16 +421,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/ranlib.com"
     found: "C:/mingw64/bin/ranlib.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -447,10 +442,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -472,7 +470,6 @@ events:
       - "strip"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -481,16 +478,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/strip.com"
     found: "C:/mingw64/bin/strip.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -500,10 +499,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -525,7 +527,6 @@ events:
       - "ld"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -534,16 +535,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/ld.com"
     found: "C:/mingw64/bin/ld.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -553,10 +556,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -578,7 +584,6 @@ events:
       - "nm"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -587,16 +592,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/nm.com"
     found: "C:/mingw64/bin/nm.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -606,10 +613,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -631,7 +641,6 @@ events:
       - "objdump"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -640,16 +649,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/objdump.com"
     found: "C:/mingw64/bin/objdump.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -659,10 +670,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -684,7 +698,6 @@ events:
       - "objcopy"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -693,16 +706,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/objcopy.com"
     found: "C:/mingw64/bin/objcopy.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -712,10 +727,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -737,7 +755,6 @@ events:
       - "readelf"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -746,16 +763,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/readelf.com"
     found: "C:/mingw64/bin/readelf.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -765,10 +784,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -790,7 +812,6 @@ events:
       - "dlltool"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -799,16 +820,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/dlltool.com"
     found: "C:/mingw64/bin/dlltool.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -818,10 +841,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -843,7 +869,6 @@ events:
       - "addr2line"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -852,16 +877,18 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/addr2line.com"
     found: "C:/mingw64/bin/addr2line.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -871,10 +898,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -896,7 +926,6 @@ events:
       - "tapi"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -905,17 +934,17 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/tapi.com"
       - "C:/mingw64/bin/tapi.exe"
       - "C:/mingw64/bin/tapi"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/tapi.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/tapi.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/tapi"
       - "C:/Qt/6.9.1/mingw_64/bin/tapi.com"
       - "C:/Qt/6.9.1/mingw_64/bin/tapi.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/tapi"
@@ -940,6 +969,9 @@ events:
       - "C:/Program Files/nodejs/tapi.com"
       - "C:/Program Files/nodejs/tapi.exe"
       - "C:/Program Files/nodejs/tapi"
+      - "C:/Program Files/Git/cmd/tapi.com"
+      - "C:/Program Files/Git/cmd/tapi.exe"
+      - "C:/Program Files/Git/cmd/tapi"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/tapi.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/tapi.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/tapi"
@@ -949,13 +981,18 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/tapi.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/tapi.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/tapi"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/tapi.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/tapi.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/tapi"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/tapi"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
     found: false
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -965,10 +1002,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -993,7 +1033,6 @@ events:
       - "gcc-ar"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1002,17 +1041,17 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ar-15.1.com"
       - "C:/mingw64/bin/gcc-ar-15.1.exe"
       - "C:/mingw64/bin/gcc-ar-15.1"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15.1.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15.1.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15.1"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15.1.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15.1.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15.1"
@@ -1037,6 +1076,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ar-15.1.com"
       - "C:/Program Files/nodejs/gcc-ar-15.1.exe"
       - "C:/Program Files/nodejs/gcc-ar-15.1"
+      - "C:/Program Files/Git/cmd/gcc-ar-15.1.com"
+      - "C:/Program Files/Git/cmd/gcc-ar-15.1.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar-15.1"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.1.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.1"
@@ -1046,15 +1088,18 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15.1.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15.1"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15.1.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15.1.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15.1"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.1"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.1"
       - "C:/mingw64/bin/gcc-ar-15.com"
       - "C:/mingw64/bin/gcc-ar-15.exe"
       - "C:/mingw64/bin/gcc-ar-15"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar-15"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar-15"
@@ -1079,6 +1124,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ar-15.com"
       - "C:/Program Files/nodejs/gcc-ar-15.exe"
       - "C:/Program Files/nodejs/gcc-ar-15"
+      - "C:/Program Files/Git/cmd/gcc-ar-15.com"
+      - "C:/Program Files/Git/cmd/gcc-ar-15.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar-15"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar-15"
@@ -1088,15 +1136,18 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar-15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar-15"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar-15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
       - "C:/mingw64/bin/gcc-ar15.com"
       - "C:/mingw64/bin/gcc-ar15.exe"
       - "C:/mingw64/bin/gcc-ar15"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar15.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar15.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ar15"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar15.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar15.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ar15"
@@ -1121,6 +1172,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ar15.com"
       - "C:/Program Files/nodejs/gcc-ar15.exe"
       - "C:/Program Files/nodejs/gcc-ar15"
+      - "C:/Program Files/Git/cmd/gcc-ar15.com"
+      - "C:/Program Files/Git/cmd/gcc-ar15.exe"
+      - "C:/Program Files/Git/cmd/gcc-ar15"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ar15"
@@ -1130,14 +1184,19 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ar15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ar15"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ar15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
       - "C:/mingw64/bin/gcc-ar.com"
     found: "C:/mingw64/bin/gcc-ar.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1147,10 +1206,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1175,7 +1237,6 @@ events:
       - "gcc-ranlib"
     candidate_directories:
       - "C:/mingw64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1184,17 +1245,17 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ranlib-15.1.com"
       - "C:/mingw64/bin/gcc-ranlib-15.1.exe"
       - "C:/mingw64/bin/gcc-ranlib-15.1"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15.1.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15.1.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15.1"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15.1.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15.1.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15.1"
@@ -1219,6 +1280,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ranlib-15.1.com"
       - "C:/Program Files/nodejs/gcc-ranlib-15.1.exe"
       - "C:/Program Files/nodejs/gcc-ranlib-15.1"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15.1.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15.1.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15.1"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.1.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.1"
@@ -1228,15 +1292,18 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15.1.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15.1"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.1.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.1.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.1"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.1"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.1"
       - "C:/mingw64/bin/gcc-ranlib-15.com"
       - "C:/mingw64/bin/gcc-ranlib-15.exe"
       - "C:/mingw64/bin/gcc-ranlib-15"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib-15"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib-15"
@@ -1261,6 +1328,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ranlib-15.com"
       - "C:/Program Files/nodejs/gcc-ranlib-15.exe"
       - "C:/Program Files/nodejs/gcc-ranlib-15"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib-15"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15"
@@ -1270,15 +1340,18 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib-15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib-15"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib-15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
       - "C:/mingw64/bin/gcc-ranlib15.com"
       - "C:/mingw64/bin/gcc-ranlib15.exe"
       - "C:/mingw64/bin/gcc-ranlib15"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib15.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib15.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/gcc-ranlib15"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib15.com"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib15.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/gcc-ranlib15"
@@ -1303,6 +1376,9 @@ events:
       - "C:/Program Files/nodejs/gcc-ranlib15.com"
       - "C:/Program Files/nodejs/gcc-ranlib15.exe"
       - "C:/Program Files/nodejs/gcc-ranlib15"
+      - "C:/Program Files/Git/cmd/gcc-ranlib15.com"
+      - "C:/Program Files/Git/cmd/gcc-ranlib15.exe"
+      - "C:/Program Files/Git/cmd/gcc-ranlib15"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/gcc-ranlib15"
@@ -1312,14 +1388,19 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib15.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib15.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/gcc-ranlib15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/gcc-ranlib15"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/gcc-ranlib15"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
       - "C:/mingw64/bin/gcc-ranlib.com"
     found: "C:/mingw64/bin/gcc-ranlib.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1329,10 +1410,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
     backtrace:
@@ -1356,7 +1440,6 @@ events:
       - "windres"
       - "windres"
     candidate_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -1366,10 +1449,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -1383,9 +1469,6 @@ events:
       - "C:/Program Files (x86)/JaugeDynamique/sbin/"
       - "C:/Program Files (x86)/JaugeDynamique/"
     searched_directories:
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/windres.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/windres.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/windres"
       - "C:/Qt/6.9.1/mingw_64/bin/windres.com"
       - "C:/Qt/6.9.1/mingw_64/bin/windres.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/windres"
@@ -1411,7 +1494,6 @@ events:
     found: "C:/mingw64/bin/windres.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1421,10 +1503,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -1440,8 +1525,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4"
-      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4"
+      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1"
+      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1451,13 +1536,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4'
+        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_27a0b/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_27a0b.dir\\build.make CMakeFiles/cmTC_27a0b.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4'
-        Building CXX object CMakeFiles/cmTC_27a0b.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_940a4/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_940a4.dir\\build.make CMakeFiles/cmTC_940a4.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1'
+        Building CXX object CMakeFiles/cmTC_940a4.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\c++.exe
         OFFLOAD_TARGET_NAMES=nvptx-none
@@ -1466,8 +1551,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.1.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r4) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_27a0b.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\cc0iVDfA.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_940a4.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccQ4dZGX.s
         GNU C++17 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r4) version 15.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1492,14 +1577,14 @@ events:
          /mingw/include
         End of search list.
         Compiler executable checksum: ae4efa2b726c4a040e39ee177e6a6393
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\'
-         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\cc0iVDfA.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\'
+         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccQ4dZGX.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r4) 2.45
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;/mingw/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_27a0b.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_27a0b.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_940a4.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_940a4.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe
@@ -1511,16 +1596,16 @@ events:
         gcc version 15.1.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r4) 
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib/;/mingw/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../;/mingw/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27a0b.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27a0b.'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccnmS1Sv.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_27a0b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_27a0b.dir/objects.a --no-whole-archive --out-implib libcmTC_27a0b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_940a4.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_940a4.'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccpw8bob.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_940a4.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_940a4.dir/objects.a --no-whole-archive --out-implib libcmTC_940a4.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         collect2 version 15.1.0
-        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccnmS1Sv.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_27a0b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_27a0b.dir/objects.a --no-whole-archive --out-implib libcmTC_27a0b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
+        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccpw8bob.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_940a4.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_940a4.dir/objects.a --no-whole-archive --out-implib libcmTC_940a4.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o
         GNU ld (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r4) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27a0b.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27a0b.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_27a0b.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_27a0b.dir/objects.a @CMakeFiles\\cmTC_27a0b.dir\\objects1.rsp
-        C:\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_27a0b.dir/objects.a -Wl,--no-whole-archive -o cmTC_27a0b.exe -Wl,--out-implib,libcmTC_27a0b.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_940a4.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_940a4.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_940a4.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_940a4.dir/objects.a @CMakeFiles\\cmTC_940a4.dir\\objects1.rsp
+        C:\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_940a4.dir/objects.a -Wl,--no-whole-archive -o cmTC_940a4.exe -Wl,--out-implib,libcmTC_940a4.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1'
         
       exitCode: 0
   -
@@ -1563,13 +1648,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4']
+        ignore line: [Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_27a0b/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_27a0b.dir\\build.make CMakeFiles/cmTC_27a0b.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-enb7f4']
-        ignore line: [Building CXX object CMakeFiles/cmTC_27a0b.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_940a4/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_940a4.dir\\build.make CMakeFiles/cmTC_940a4.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2v8pe1']
+        ignore line: [Building CXX object CMakeFiles/cmTC_940a4.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\c++.exe]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -1578,8 +1663,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.1.0 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r4) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\']
-        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_27a0b.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\cc0iVDfA.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\']
+        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_940a4.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccQ4dZGX.s]
         ignore line: [GNU C++17 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r4) version 15.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -1604,8 +1689,8 @@ events:
         ignore line: [ /mingw/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: ae4efa2b726c4a040e39ee177e6a6393]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\']
-        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\cc0iVDfA.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\']
+        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccQ4dZGX.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64  built by Brecht Sanders  r4) 2.45]
         ignore line: [COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/]
         ignore line: [C:/mingw64/bin/../libexec/gcc/]
@@ -1618,9 +1703,9 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_27a0b.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_27a0b.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_27a0b.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_940a4.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_940a4.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_940a4.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe]
@@ -1641,13 +1726,13 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../]
         ignore line: [/mingw/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_27a0b.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_27a0b.']
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccnmS1Sv.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_27a0b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_27a0b.dir/objects.a --no-whole-archive --out-implib libcmTC_27a0b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_940a4.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_940a4.']
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccpw8bob.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_940a4.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../lib -L/mingw/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../.. -L/mingw/lib -v --whole-archive CMakeFiles\\cmTC_940a4.dir/objects.a --no-whole-archive --out-implib libcmTC_940a4.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtend.o]
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/15.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccnmS1Sv.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\BEETTT~1\\AppData\\Local\\Temp\\ccpw8bob.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -1669,7 +1754,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_27a0b.exe] ==> ignore
+          arg [cmTC_940a4.exe] ==> ignore
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0/crtbegin.o]
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.1.0]
@@ -1682,10 +1767,10 @@ events:
           arg [-L/mingw/lib] ==> dir [/mingw/lib]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_27a0b.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_940a4.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_27a0b.dll.a] ==> ignore
+          arg [libcmTC_940a4.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -1774,8 +1859,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2kqd8c"
-      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2kqd8c"
+      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-477gge"
+      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-477gge"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1785,19 +1870,19 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2kqd8c'
+        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-477gge'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_2d92a/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_2d92a.dir\\build.make CMakeFiles/cmTC_2d92a.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2kqd8c'
-        Building CXX object CMakeFiles/cmTC_2d92a.dir/src.cxx.obj
-        C:\\mingw64\\bin\\c++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles\\cmTC_2d92a.dir\\src.cxx.obj -c "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2kqd8c\\src.cxx"
-        Linking CXX executable cmTC_2d92a.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_2d92a.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_2d92a.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_2d92a.dir/objects.a @CMakeFiles\\cmTC_2d92a.dir\\objects1.rsp
-        C:\\mingw64\\bin\\c++.exe -Wl,--whole-archive CMakeFiles\\cmTC_2d92a.dir/objects.a -Wl,--no-whole-archive -o cmTC_2d92a.exe -Wl,--out-implib,libcmTC_2d92a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_2d92a.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-2kqd8c'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_71dfe/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_71dfe.dir\\build.make CMakeFiles/cmTC_71dfe.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-477gge'
+        Building CXX object CMakeFiles/cmTC_71dfe.dir/src.cxx.obj
+        C:\\mingw64\\bin\\c++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles\\cmTC_71dfe.dir\\src.cxx.obj -c "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\build\\CMakeFiles\\CMakeScratch\\TryCompile-477gge\\src.cxx"
+        Linking CXX executable cmTC_71dfe.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_71dfe.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_71dfe.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_71dfe.dir/objects.a @CMakeFiles\\cmTC_71dfe.dir\\objects1.rsp
+        C:\\mingw64\\bin\\c++.exe -Wl,--whole-archive CMakeFiles\\cmTC_71dfe.dir/objects.a -Wl,--no-whole-archive -o cmTC_71dfe.exe -Wl,--out-implib,libcmTC_71dfe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_71dfe.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-477gge'
         
       exitCode: 0
   -
@@ -1815,8 +1900,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-rzoiba"
-      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-rzoiba"
+      source: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-wq9rt9"
+      binary: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-wq9rt9"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1826,19 +1911,19 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-rzoiba'
+        Change Dir: 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-wq9rt9'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_53aa1/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_53aa1.dir\\build.make CMakeFiles/cmTC_53aa1.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-rzoiba'
-        Building CXX object CMakeFiles/cmTC_53aa1.dir/src.cxx.obj
-        C:\\mingw64\\bin\\c++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles\\cmTC_53aa1.dir\\src.cxx.obj -c "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzoiba\\src.cxx"
-        Linking CXX executable cmTC_53aa1.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_53aa1.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_53aa1.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_53aa1.dir/objects.a @CMakeFiles\\cmTC_53aa1.dir\\objects1.rsp
-        C:\\mingw64\\bin\\c++.exe -Wl,--whole-archive CMakeFiles\\cmTC_53aa1.dir/objects.a -Wl,--no-whole-archive -o cmTC_53aa1.exe -Wl,--out-implib,libcmTC_53aa1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_53aa1.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-rzoiba'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fdad2/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fdad2.dir\\build.make CMakeFiles/cmTC_fdad2.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-wq9rt9'
+        Building CXX object CMakeFiles/cmTC_fdad2.dir/src.cxx.obj
+        C:\\mingw64\\bin\\c++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles\\cmTC_fdad2.dir\\src.cxx.obj -c "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wq9rt9\\src.cxx"
+        Linking CXX executable cmTC_fdad2.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_fdad2.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_fdad2.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_fdad2.dir/objects.a @CMakeFiles\\cmTC_fdad2.dir\\objects1.rsp
+        C:\\mingw64\\bin\\c++.exe -Wl,--whole-archive CMakeFiles\\cmTC_fdad2.dir/objects.a -Wl,--no-whole-archive -o cmTC_fdad2.exe -Wl,--out-implib,libcmTC_fdad2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_fdad2.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/CMakeScratch/TryCompile-wq9rt9'
         
       exitCode: 0
   -
@@ -1894,14 +1979,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6CoreToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6coretools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Qt/6.9.1/mingw_64/Qt6CoreToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -1915,7 +1992,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -1925,10 +2001,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2002,7 +2081,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2012,10 +2090,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2089,7 +2170,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2099,10 +2179,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2173,7 +2256,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2183,10 +2265,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2216,7 +2301,6 @@ events:
       - "windeployqt"
     candidate_directories:
       - "C:/Qt/6.9.1/mingw_64/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
       - "C:/Windows/System32/wbem/"
@@ -2225,10 +2309,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -2246,7 +2333,6 @@ events:
     found: "C:/Qt/6.9.1/mingw_64/bin/windeployqt.exe"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2256,10 +2342,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2326,7 +2415,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2336,10 +2424,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2371,7 +2462,6 @@ events:
       - "vulkan/vulkan.h"
     candidate_directories:
       - "/include/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2381,10 +2471,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/include/"
       - "C:/Program Files/"
       - "C:/Program Files (x86)/include/"
@@ -2395,7 +2488,6 @@ events:
       - "C:/Program Files (x86)/JaugeDynamique/"
     searched_directories:
       - "/include/vulkan/vulkan.h"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/vulkan/vulkan.h"
       - "C:/Qt/6.9.1/mingw_64/bin/vulkan/vulkan.h"
       - "C:/Windows/System32/vulkan/vulkan.h"
       - "C:/Windows/vulkan/vulkan.h"
@@ -2405,10 +2497,13 @@ events:
       - "C:/Program Files/CMake/bin/vulkan/vulkan.h"
       - "C:/mingw64/bin/vulkan/vulkan.h"
       - "C:/Program Files/nodejs/vulkan/vulkan.h"
+      - "C:/Program Files/Git/cmd/vulkan/vulkan.h"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/vulkan/vulkan.h"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/vulkan/vulkan.h"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/vulkan/vulkan.h"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/vulkan/vulkan.h"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/vulkan/vulkan.h"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/vulkan/vulkan.h"
       - "C:/Program Files/include/vulkan/vulkan.h"
       - "C:/Program Files/vulkan/vulkan.h"
       - "C:/Program Files (x86)/include/vulkan/vulkan.h"
@@ -2420,7 +2515,6 @@ events:
     found: false
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2430,10 +2524,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2466,7 +2563,6 @@ events:
     candidate_directories:
       - "/lib/"
       - "/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2476,10 +2572,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/lib/"
       - "C:/Program Files/"
       - "C:/Program Files (x86)/lib/"
@@ -2492,7 +2591,6 @@ events:
     searched_directories:
       - "/lib/"
       - "/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2502,10 +2600,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/lib/"
       - "C:/Program Files/"
       - "C:/Program Files (x86)/lib/"
@@ -2518,7 +2619,6 @@ events:
     found: false
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2528,10 +2628,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2567,7 +2670,6 @@ events:
       - "glslc"
     candidate_directories:
       - "/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2577,10 +2679,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -2597,9 +2702,6 @@ events:
       - "/bin/glslc.com"
       - "/bin/glslc.exe"
       - "/bin/glslc"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslc.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslc.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslc"
       - "C:/Qt/6.9.1/mingw_64/bin/glslc.com"
       - "C:/Qt/6.9.1/mingw_64/bin/glslc.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/glslc"
@@ -2627,6 +2729,9 @@ events:
       - "C:/Program Files/nodejs/glslc.com"
       - "C:/Program Files/nodejs/glslc.exe"
       - "C:/Program Files/nodejs/glslc"
+      - "C:/Program Files/Git/cmd/glslc.com"
+      - "C:/Program Files/Git/cmd/glslc.exe"
+      - "C:/Program Files/Git/cmd/glslc"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslc.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslc.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslc"
@@ -2636,9 +2741,15 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslc.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslc.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslc"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslc.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslc.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslc"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslc.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslc.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslc"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslc.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslc.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslc"
       - "C:/Program Files/bin/glslc.com"
       - "C:/Program Files/bin/glslc.exe"
       - "C:/Program Files/bin/glslc"
@@ -2678,7 +2789,6 @@ events:
     found: false
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2688,10 +2798,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2723,7 +2836,6 @@ events:
       - "glslangValidator"
     candidate_directories:
       - "/bin/"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/"
       - "C:/Qt/6.9.1/mingw_64/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -2733,10 +2845,13 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/mingw64/bin/"
       - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Git/cmd/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -2753,9 +2868,6 @@ events:
       - "/bin/glslangValidator.com"
       - "/bin/glslangValidator.exe"
       - "/bin/glslangValidator"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslangValidator.com"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslangValidator.exe"
-      - "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/glslangValidator"
       - "C:/Qt/6.9.1/mingw_64/bin/glslangValidator.com"
       - "C:/Qt/6.9.1/mingw_64/bin/glslangValidator.exe"
       - "C:/Qt/6.9.1/mingw_64/bin/glslangValidator"
@@ -2783,6 +2895,9 @@ events:
       - "C:/Program Files/nodejs/glslangValidator.com"
       - "C:/Program Files/nodejs/glslangValidator.exe"
       - "C:/Program Files/nodejs/glslangValidator"
+      - "C:/Program Files/Git/cmd/glslangValidator.com"
+      - "C:/Program Files/Git/cmd/glslangValidator.exe"
+      - "C:/Program Files/Git/cmd/glslangValidator"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslangValidator.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslangValidator.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/glslangValidator"
@@ -2792,9 +2907,15 @@ events:
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslangValidator.com"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslangValidator.exe"
       - "C:/Users/BEETTTTA!!!!/AppData/Roaming/npm/glslangValidator"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslangValidator.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslangValidator.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/bin/glslangValidator"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslangValidator.com"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslangValidator.exe"
       - "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/glslangValidator"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslangValidator.com"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslangValidator.exe"
+      - "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/glslangValidator"
       - "C:/Program Files/bin/glslangValidator.com"
       - "C:/Program Files/bin/glslangValidator.exe"
       - "C:/Program Files/bin/glslangValidator"
@@ -2834,7 +2955,6 @@ events:
     found: false
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2844,10 +2964,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -2907,14 +3030,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6GuiToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6guitools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Qt/6.9.1/mingw_64/Qt6GuiToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -2928,7 +3043,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -2938,10 +3052,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3012,7 +3129,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3022,10 +3138,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3092,7 +3211,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3102,10 +3220,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3165,14 +3286,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6QmlToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6qmltools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Qt/6.9.1/mingw_64/Qt6QmlToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -3186,7 +3299,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3196,10 +3308,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3274,7 +3389,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3284,10 +3398,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3361,7 +3478,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3371,10 +3487,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3449,7 +3568,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3459,10 +3577,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3536,7 +3657,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3546,10 +3666,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3620,7 +3743,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3630,10 +3752,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3686,14 +3811,6 @@ events:
         reason: "no_exist"
       -
         path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/pkgRedirects/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6qmlcompilerplusprivatetools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -3769,6 +3886,14 @@ events:
         mode: "config"
         reason: "no_exist"
       -
+        path: "C:/Program Files/Git/cmd/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/qt6qmlcompilerplusprivatetools-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
         path: "C:/Users/BEETTTTA!!!!/AppData/Local/Microsoft/WindowsApps/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -3785,11 +3910,27 @@ events:
         mode: "config"
         reason: "no_exist"
       -
+        path: "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/BEETTTTA!!!!/AppData/Local/GitHubDesktop/qt6qmlcompilerplusprivatetools-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
         path: "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
         path: "C:/Users/BEETTTTA!!!!/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/qt6qmlcompilerplusprivatetools-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/BEETTTTA!!!!/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/qt6qmlcompilerplusprivatetools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -3819,7 +3960,6 @@ events:
     found: null
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3829,10 +3969,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -3918,7 +4061,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -3928,10 +4070,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4016,7 +4161,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4026,10 +4170,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4110,7 +4257,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4120,10 +4266,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4201,7 +4350,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4211,10 +4359,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4291,7 +4442,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4301,10 +4451,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4371,7 +4524,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4381,10 +4533,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4444,14 +4599,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6QuickToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6quicktools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Qt/6.9.1/mingw_64/Qt6QuickToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -4465,7 +4612,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4475,10 +4621,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4557,7 +4706,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4567,10 +4715,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4648,7 +4799,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4658,10 +4808,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4740,7 +4893,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4750,10 +4902,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4831,7 +4986,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4841,10 +4995,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4919,7 +5076,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -4929,10 +5085,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5006,7 +5165,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5016,10 +5174,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5094,7 +5255,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5104,10 +5264,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5181,7 +5344,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5191,10 +5353,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5265,7 +5430,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5275,10 +5439,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5345,7 +5512,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5355,10 +5521,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5433,7 +5602,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5443,10 +5611,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5520,7 +5691,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5530,10 +5700,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5604,7 +5777,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5614,10 +5786,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5684,7 +5859,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5694,10 +5868,181 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/JaugeDynamique"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake:85 (find_package)"
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:218 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6SvgPrivate"
+    configs:
+      -
+        filename: "Qt6SvgPrivateConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6svgprivate-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.9.1"
+      version_complete: "6.9.1"
+      exact: true
+    settings:
+      required: "optional"
+      quiet: true
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6SvgPrivate"
+      search_paths:
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/.."
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/pkgRedirects/Qt6SvgPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/pkgRedirects/qt6svgprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivateConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/qt6svgprivate-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfig.cmake"
+      mode: "config"
+      version: "6.9.1"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Qt\\6.9.1\\mingw_64\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/JaugeDynamique"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:218 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
+    name: "Qt6Svg"
+    configs:
+      -
+        filename: "Qt6SvgConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6svg-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6Svg"
+      search_paths:
+        - "C:/Qt/6.9.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/pkgRedirects/Qt6SvgConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/CMakeFiles/pkgRedirects/qt6svg-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.9.1/mingw_64/lib/cmake/qt6svg-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake"
+      mode: "config"
+      version: "6.9.1"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Qt\\6.9.1\\mingw_64\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -5728,6 +6073,10 @@ events:
         found: false
       -
         name: "QuickControls2"
+        required: true
+        found: false
+      -
+        name: "Svg"
         required: true
         found: false
     configs:
@@ -5769,14 +6118,6 @@ events:
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/Qt6Config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/BEETTTTA!!!!/Desktop/projet alten/.venv/Scripts/qt6-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
         path: "C:/Qt/6.9.1/mingw_64/Qt6Config.cmake"
         mode: "config"
         reason: "no_exist"
@@ -5790,7 +6131,6 @@ events:
       version: "6.9.1"
     search_context:
       ENV{PATH}:
-        - "C:\\Users\\BEETTTTA!!!!\\Desktop\\projet alten\\.venv\\Scripts"
         - "C:\\Qt\\6.9.1\\mingw_64\\bin"
         - "C:\\WINDOWS\\system32"
         - "C:\\WINDOWS"
@@ -5800,10 +6140,13 @@ events:
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\npm"
+        - "C:\\Users\\BEETTTTA!!!!\\AppData\\Local\\GitHubDesktop\\bin"
         - "c:\\Users\\BEETTTTA!!!!\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\BEETTTTA!!!!\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/JaugeDynamique"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"

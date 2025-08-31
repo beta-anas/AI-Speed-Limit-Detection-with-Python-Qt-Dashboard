@@ -1016,6 +1016,21 @@ JaugeDynamique_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets-relwithdebinfo.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsVersionlessTargets.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgAdditionalTargetInfo.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfigVersion.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfigVersionImpl.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgDependencies.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgTargets-relwithdebinfo.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgTargets.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgVersionlessAliasTargets.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateAdditionalTargetInfo.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfig.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersion.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersionImpl.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateDependencies.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargets.cmake \
+  C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessAliasTargets.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake \
@@ -1023,12 +1038,12 @@ JaugeDynamique_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
   C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/CMakeLists.txt \
-  C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/Main.cpp \
   .qt/qml_imports/JaugeDynamique_conf.cmake \
   CMakeFiles/4.1.0-rc4/CMakeCXXCompiler.cmake \
   CMakeFiles/4.1.0-rc4/CMakeRCCompiler.cmake \
   CMakeFiles/4.1.0-rc4/CMakeSystem.cmake \
   JaugeDynamique_autogen/moc_predefs.h \
+  C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/main.cpp \
   C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/speedlimitreader.cpp \
   C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/speedlimitreader.h \
   C:/mingw64/include/c++/15.1.0/algorithm \
@@ -1251,8 +1266,6 @@ C:/Program\ Files/CMake/bin/cmake.exe:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-relwithdebinfo.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
-
-C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/Main.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6grpcquickpluginTargets-relwithdebinfo.cmake:
 
@@ -1480,9 +1493,9 @@ C:/mingw64/include/c++/15.1.0/ext/string_conversions.h:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake:
+
+C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
@@ -2006,6 +2019,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets-relwithdebinfo.cmake
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsDependencies.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgAdditionalTargetInfo.cmake:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets.cmake:
@@ -2276,6 +2291,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentVersionlessAliasTarget
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfigVersion.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ConcurrentPrivate/Qt6ConcurrentPrivateAdditionalTargetInfo.cmake:
@@ -2426,9 +2443,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginConfig.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
-
 C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/CMakeLists.txt:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
@@ -2458,6 +2475,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfigVersionImpl.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake:
@@ -2480,9 +2499,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginConfig.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -2632,9 +2651,11 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginAdditionalTargetInfo.cm
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginAdditionalTargetInfo.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake:
 
@@ -3058,6 +3079,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylep
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfig.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginConfig.cmake:
@@ -3078,15 +3101,15 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyle
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginAdditionalTargetInfo.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets.cmake:
 
 C:/mingw64/include/c++/15.1.0/bits/charconv.h:
 
@@ -3116,9 +3139,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginAdditiona
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginConfig.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginAdditionalTargetInfo.cmake:
 
@@ -3156,9 +3179,11 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginConfig
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateAdditionalTargetInfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-relwithdebinfo.cmake:
 
@@ -3368,6 +3393,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QmlPrivate/Qt6QmlPrivateConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QmlPrivate/Qt6QmlPrivateConfigVersionImpl.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessAliasTargets.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QmlPrivate/Qt6QmlPrivateDependencies.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QmlPrivate/Qt6QmlPrivateTargets.cmake:
@@ -3452,6 +3479,22 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsVersionlessTargets.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgDependencies.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg/Qt6SvgVersionlessAliasTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersion.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersionImpl.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateDependencies.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargets.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake:
 
 .qt/qml_imports/JaugeDynamique_conf.cmake:
@@ -3459,6 +3502,10 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cm
 CMakeFiles/4.1.0-rc4/CMakeRCCompiler.cmake:
 
 CMakeFiles/4.1.0-rc4/CMakeSystem.cmake:
+
+C:/mingw64/include/c++/15.1.0/bits/utility.h:
+
+C:/Users/BEETTTTA!!!!/Desktop/projet\ alten/main.cpp:
 
 C:/mingw64/include/c++/15.1.0/initializer_list:
 
@@ -3581,8 +3628,6 @@ C:/mingw64/include/c++/15.1.0/bits/uses_allocator.h:
 C:/mingw64/x86_64-w64-mingw32/include/process.h:
 
 C:/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h:
-
-C:/mingw64/include/c++/15.1.0/bits/utility.h:
 
 C:/mingw64/include/c++/15.1.0/bits/vector.tcc:
 

@@ -1,6 +1,14 @@
 <RCC>
-    <qresource prefix="/qml">
+    <qresource prefix="/">
         <file>qml/Main.qml</file>
         <file>qml/Gauge.qml</file>
+        <file>assets/signs/20.svg</file>
+        <file>assets/signs/30.svg</file>
+        <file>assets/signs/40.svg</file>
+        <file>assets/signs/50.svg</file>
+        <file>assets/signs/60.svg</file>
+        <file>assets/signs/80.svg</file>
+        <file>assets/signs/100.svg</file>
+        <file>assets/signs/120.svg</file>
     </qresource>
 </RCC>
