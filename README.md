@@ -44,10 +44,10 @@ It demonstrates how to integrate **Python (AI & computer vision)** with **C++/Qt
 ## ▶️ Usage  
 
 ### 1️⃣ Run the Python detection + OCR script  
-```bash
+`bash`
 python Main.py
 ### 2️⃣ Run the Qt app to display the dynamic gauge  
-```bash
+`bash`
 ./build/JaugeDynamique.exe
 
 ---
