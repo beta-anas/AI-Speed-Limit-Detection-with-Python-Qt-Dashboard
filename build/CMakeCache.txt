@@ -397,6 +397,12 @@ Qt6QuickTools_DIR:PATH=C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6QuickTools
 //The directory containing a CMake configuration file for Qt6Quick.
 Qt6Quick_DIR:PATH=C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Quick
 
+//The directory containing a CMake configuration file for Qt6SvgPrivate.
+Qt6SvgPrivate_DIR:PATH=C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6SvgPrivate
+
+//The directory containing a CMake configuration file for Qt6Svg.
+Qt6Svg_DIR:PATH=C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Svg
+
 //The directory containing a CMake configuration file for Qt6ZlibPrivate.
 Qt6ZlibPrivate_DIR:PATH=C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate
 

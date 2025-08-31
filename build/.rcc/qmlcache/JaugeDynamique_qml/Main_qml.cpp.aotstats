@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 17,
-                        "durationMicroseconds": 1839,
+                        "durationMicroseconds": 522,
                         "errorMessage": "Cannot access value for name speedLimitReader",
                         "functionName": "target",
                         "line": 26
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 2111,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 38
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 2408,
+                        "durationMicroseconds": 4023,
                         "errorMessage": "",
                         "functionName": "onPressed",
                         "line": 41
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "onPressed",
                         "line": 41
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 416,
+                        "durationMicroseconds": 439,
                         "errorMessage": "",
                         "functionName": "onReleased",
                         "line": 53
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "onReleased",
                         "line": 53
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 5503,
+                        "durationMicroseconds": 4190,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 68
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 18,
-                        "durationMicroseconds": 7013,
+                        "durationMicroseconds": 10537,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "onPaint",
                         "line": 103
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 99
@@ -94,10 +94,10 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "target",
-                        "line": 166
+                        "line": 183
                     },
                     {
                         "codegenSuccessful": false,
@@ -105,7 +105,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"speedChanged\".",
                         "functionName": "onSpeedChanged",
-                        "line": 167
+                        "line": 184
                     },
                     {
                         "codegenSuccessful": false,
@@ -113,79 +113,119 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"currentSpeedLimitChanged\".",
                         "functionName": "onCurrentSpeedLimitChanged",
-                        "line": 168
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 15,
-                        "durationMicroseconds": 297,
-                        "errorMessage": "",
-                        "functionName": "text",
-                        "line": 176
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 16,
-                        "durationMicroseconds": 182,
-                        "errorMessage": "",
-                        "functionName": "color",
-                        "line": 177
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 35,
-                        "durationMicroseconds": 90,
-                        "errorMessage": "",
-                        "functionName": "horizontalCenter",
-                        "line": 173
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 25,
-                        "durationMicroseconds": 63,
-                        "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 174
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 15,
-                        "durationMicroseconds": 141,
-                        "errorMessage": "",
-                        "functionName": "text",
                         "line": 185
                     },
                     {
                         "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 374,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 330,
+                        "durationMicroseconds": 199,
                         "errorMessage": "",
                         "functionName": "color",
-                        "line": 186
+                        "line": 194
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 182
+                        "line": 190
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 59,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 183
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 200
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 259,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "type",
-                        "line": 194
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"currentSpeedLimitChanged\".",
+                        "functionName": "onCurrentSpeedLimitChanged",
+                        "line": 229
                     }
                 ],
                 "filePath": "C:/Users/BEETTTTA!!!!/Desktop/projet alten/qml/Main.qml"

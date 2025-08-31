@@ -19,6 +19,20 @@
                         "stored": true,
                         "type": "int",
                         "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "speedLimitImage",
+                        "notify": "speedLimitChanged",
+                        "read": "speedLimitImage",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
                     }
                 ],
                 "qualifiedClassName": "SpeedLimitReader",

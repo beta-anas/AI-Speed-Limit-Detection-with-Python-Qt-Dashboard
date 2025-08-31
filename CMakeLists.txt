@@ -4,26 +4,26 @@ project(JaugeDynamique LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Activer AUTOMOC pour la génération des méta-objets Qt
+# Activer AUTOMOC, AUTORCC, AUTOUIC
 set(CMAKE_AUTOUIC ON)
-set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
 
-# Trouver Qt6
+# Qt6 standard (pas de Quick2DRenderer)
 find_package(Qt6 REQUIRED COMPONENTS
     Core
     Gui
     Qml
     Quick
     QuickControls2
+    Svg
 )
 
 qt_add_executable(JaugeDynamique
-    Main.cpp
+    main.cpp
     speedlimitreader.cpp
 )
 
-# Configuration manuelle du module QML et des ressources
 qt_add_qml_module(JaugeDynamique
     URI Jauge
     VERSION 1.0
@@ -37,8 +37,15 @@ qt_add_resources(JaugeDynamique "resources"
     FILES
         qml/Main.qml
         qml/Gauge.qml
+        assets/signs/20.svg
+        assets/signs/30.svg
+        assets/signs/40.svg
+        assets/signs/50.svg
+        assets/signs/60.svg
+        assets/signs/80.svg
+        assets/signs/100.svg
+        assets/signs/120.svg
 )
-
 
 target_link_libraries(JaugeDynamique PRIVATE
     Qt6::Core
@@ -46,4 +53,5 @@ target_link_libraries(JaugeDynamique PRIVATE
     Qt6::Qml
     Qt6::Quick
     Qt6::QuickControls2
+    Qt6::Svg
 )

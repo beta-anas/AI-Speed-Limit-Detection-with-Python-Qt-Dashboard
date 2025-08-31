@@ -347,30 +347,6 @@ JaugeDynamique_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/JaugeDynamique_autogen/mocs_compilation.cpp.s
 .PHONY : JaugeDynamique_autogen/mocs_compilation.cpp.s
 
-Main.obj: Main.cpp.obj
-.PHONY : Main.obj
-
-# target to build an object file
-Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/Main.cpp.obj
-.PHONY : Main.cpp.obj
-
-Main.i: Main.cpp.i
-.PHONY : Main.i
-
-# target to preprocess a source file
-Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/Main.cpp.i
-.PHONY : Main.cpp.i
-
-Main.s: Main.cpp.s
-.PHONY : Main.s
-
-# target to generate assembly for a file
-Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/Main.cpp.s
-.PHONY : Main.cpp.s
-
 build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.obj: build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.cpp.obj
 .PHONY : build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.obj
 
@@ -539,6 +515,30 @@ jaugedynamique_qmltyperegistrations.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/jaugedynamique_qmltyperegistrations.cpp.s
 .PHONY : jaugedynamique_qmltyperegistrations.cpp.s
 
+main.obj: main.cpp.obj
+.PHONY : main.obj
+
+# target to build an object file
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/main.cpp.obj
+.PHONY : main.cpp.obj
+
+main.i: main.cpp.i
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\JaugeDynamique.dir\build.make CMakeFiles/JaugeDynamique.dir/main.cpp.s
+.PHONY : main.cpp.s
+
 speedlimitreader.obj: speedlimitreader.cpp.obj
 .PHONY : speedlimitreader.obj
 
@@ -590,9 +590,6 @@ help:
 	@echo ... JaugeDynamique_autogen/mocs_compilation.obj
 	@echo ... JaugeDynamique_autogen/mocs_compilation.i
 	@echo ... JaugeDynamique_autogen/mocs_compilation.s
-	@echo ... Main.obj
-	@echo ... Main.i
-	@echo ... Main.s
 	@echo ... build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.obj
 	@echo ... build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.i
 	@echo ... build/.qt/rcc/qrc_JaugeDynamique_raw_qml_0.s
@@ -614,6 +611,9 @@ help:
 	@echo ... jaugedynamique_qmltyperegistrations.obj
 	@echo ... jaugedynamique_qmltyperegistrations.i
 	@echo ... jaugedynamique_qmltyperegistrations.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 	@echo ... speedlimitreader.obj
 	@echo ... speedlimitreader.i
 	@echo ... speedlimitreader.s

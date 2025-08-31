@@ -81,6 +81,7 @@ jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6qmlmo
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6qmlworkerscript_relwithdebinfo_metatypes.json
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6opengl_relwithdebinfo_metatypes.json
 jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6quickcontrols2_relwithdebinfo_metatypes.json
+jaugedynamique_qmltyperegistrations.cpp: C:/Qt/6.9.1/mingw_64/metatypes/qt6svg_relwithdebinfo_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\BEETTTTA!!!!\Desktop\projet alten\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic QML type registration for target JaugeDynamique"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.9.1/mingw_64/bin/qmltyperegistrar.exe "--generate-qmltypes=C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/Jauge/JaugeDynamique.qmltypes" --import-name=Jauge --major-version=1 --minor-version=0 "@C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/qmltypes/JaugeDynamique_foreign_types.txt" -o "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/jaugedynamique_qmltyperegistrations.cpp" "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/meta_types/qt6jaugedynamique_metatypes.json"
 	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/BEETTTTA!!!!/Desktop/projet alten/build/.qt/qmltypes"
